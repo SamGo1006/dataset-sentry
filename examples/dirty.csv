@@ -1,0 +1,5 @@
+id,score,label
+1,0.92,accepted
+1,1.5,maybe
+3,NaN,rejected
+4,,accepted
